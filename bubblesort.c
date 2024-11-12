@@ -27,6 +27,5 @@ int main() {
     int n = sizeof(arr) / sizeof(arr[0]);
     bubbleSort(arr, n);
     printf("Sorted array: \n");
-    printArray(arr, n);
     return 0;
 }
