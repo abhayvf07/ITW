@@ -25,5 +25,5 @@ int main() {
     selectionSort(arr, n);
     printf("Sorted array: \n");
     printArray(arr, n);
-    return 0;
+
 }
