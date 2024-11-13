@@ -37,6 +37,6 @@ int main() {
     int n = sizeof(arr) / sizeof(arr[0]);
     mergeSort(arr, 0, n - 1);
     printf("Sorted array: \n");
-    printArray(arr, n);
+    
     return 0;
 }
