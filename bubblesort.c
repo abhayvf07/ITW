@@ -25,8 +25,8 @@ void printaay(int a[], int n) {
 int main() {
     int a[] = {64, 34, 25, 12, 22, 11, 90};
     int n = sizeof(a) / sizeof(a[0]);
-    bubblea, n)
+    bubbleSort(a, n)
     printf("Sorted aay: \n");
-    printaay(a, n);
+    printaay(a, n
     return 0;
 }
